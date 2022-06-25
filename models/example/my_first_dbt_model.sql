@@ -1,1 +1,1 @@
-select * from pc_fivetran_db.citibike.citibike limit 10
+select * from pc_fivetran_db.citibike.citibike limit 1
